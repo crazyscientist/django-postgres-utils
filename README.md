@@ -1,5 +1,8 @@
 # PostgreSQL lookups and functions for Django apps
 
+[![Build Status](https://travis-ci.org/Canned-Django/django-postgres-utils.svg?branch=master)](https://travis-ci.org/Canned-Django/django-postgres-utils)
+[![Documentation Status](https://readthedocs.org/projects/canned-djangodjango-postgres-utils/badge/?version=latest)](https://canned-djangodjango-postgres-utils.readthedocs.io/en/latest/?badge=latest)
+
 How often have you had the impression that Django was not providing all the lookup expressions and
 functions for your queries? Probably not that often, but now here is a **small** collection that I
 consider quite useful.
